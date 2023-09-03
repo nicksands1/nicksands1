@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick!, an <a href="https://www.linkedin.com/in/nsands14/">IT Professional</a></h1>
+<h1>Hi, I'm Nick, an <a href="https://www.linkedin.com/in/nsands14/">IT Professional</a></h1>
 
 <h2>☁️ Cloud Based Projects:</h2>
 
